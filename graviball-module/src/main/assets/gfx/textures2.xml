@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<texture version="1" file="textures2.png" type="bitmap" width="814" height="1454" pixelformat="RGBA_8888" minfilter="linear" magfilter="linear" wrapt="clamp" wraps="clamp" premultiplyalpha="false">
+    <!-- Created with TexturePacker http://texturepacker.com -->
+    <!--  -->
+    <textureregion id="0" src="background-back-king.png" x="2" y="972" width="480" height="800" rotated="true" trimmed="false" srcx="0" srcy="0" srcwidth="480" srcheight="800"/>
+    <textureregion id="1" src="background-back.png" x="2" y="2" width="486" height="810" rotated="true" trimmed="false" srcx="0" srcy="0" srcwidth="486" srcheight="810"/>
+    <textureregion id="2" src="background-front.png" x="2" y="490" width="480" height="800" rotated="true" trimmed="false" srcx="0" srcy="0" srcwidth="480" srcheight="800"/>
+</texture>

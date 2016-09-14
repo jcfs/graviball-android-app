@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<texture version="1" file="textures.png" type="bitmap" width="1019" height="1306" pixelformat="RGBA_8888" minfilter="linear" magfilter="linear" wrapt="clamp" wraps="clamp" premultiplyalpha="false">
+    <!-- Created with TexturePacker http://texturepacker.com -->
+    <!--  -->
+    <textureregion id="0" src="achieves.png" x="463" y="706" width="440" height="150" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="440" srcheight="150"/>
+    <textureregion id="1" src="background-league.png" x="2" y="2" width="480" height="800" rotated="true" trimmed="false" srcx="0" srcy="0" srcwidth="480" srcheight="800"/>
+    <textureregion id="2" src="bubble.png" x="448" y="858" width="150" height="150" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="150" srcheight="150"/>
+    <textureregion id="3" src="chute.png" x="828" y="940" width="50" height="64" rotated="true" trimmed="false" srcx="0" srcy="0" srcwidth="50" srcheight="64"/>
+    <textureregion id="4" src="diamond.png" x="828" y="992" width="80" height="50" rotated="true" trimmed="false" srcx="0" srcy="0" srcwidth="80" srcheight="50"/>
+    <textureregion id="5" src="grass.png" x="804" y="2" width="480" height="200" rotated="true" trimmed="false" srcx="0" srcy="0" srcwidth="480" srcheight="200"/>
+    <textureregion id="6" src="graviball.png" x="463" y="484" width="450" height="220" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="450" srcheight="220"/>
+    <textureregion id="7" src="healthbarback.png" x="426" y="831" width="150" height="20" rotated="true" trimmed="false" srcx="0" srcy="0" srcwidth="150" srcheight="20"/>
+    <textureregion id="8" src="healthbarfront.png" x="426" y="983" width="150" height="18" rotated="true" trimmed="false" srcx="0" srcy="0" srcwidth="150" srcheight="18"/>
+    <textureregion id="9" src="help.png" x="600" y="858" width="122" height="122" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="122" srcheight="122"/>
+    <textureregion id="10" src="king.png" x="808" y="1102" width="102" height="101" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="102" srcheight="101"/>
+    <textureregion id="11" src="medkit.png" x="912" y="1204" width="100" height="100" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="100" srcheight="100"/>
+    <textureregion id="12" src="next.png" x="912" y="1102" width="100" height="100" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="100" srcheight="100"/>
+    <textureregion id="13" src="opponents/1.png" x="550" y="1085" width="102" height="101" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="102" srcheight="101"/>
+    <textureregion id="14" src="opponents/10.png" x="446" y="1010" width="102" height="101" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="102" srcheight="101"/>
+    <textureregion id="15" src="opponents/11.png" x="880" y="999" width="102" height="101" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="102" srcheight="101"/>
+    <textureregion id="16" src="opponents/12.png" x="704" y="1064" width="102" height="101" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="102" srcheight="101"/>
+    <textureregion id="17" src="opponents/2.png" x="600" y="982" width="102" height="101" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="102" srcheight="101"/>
+    <textureregion id="18" src="opponents/3.png" x="724" y="961" width="102" height="101" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="102" srcheight="101"/>
+    <textureregion id="19" src="opponents/4.png" x="904" y="896" width="102" height="101" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="102" srcheight="101"/>
+    <textureregion id="20" src="opponents/5.png" x="724" y="858" width="102" height="101" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="102" srcheight="101"/>
+    <textureregion id="21" src="opponents/6.png" x="905" y="793" width="102" height="101" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="102" srcheight="101"/>
+    <textureregion id="22" src="opponents/7.png" x="915" y="690" width="102" height="101" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="102" srcheight="101"/>
+    <textureregion id="23" src="opponents/8.png" x="915" y="587" width="102" height="101" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="102" srcheight="101"/>
+    <textureregion id="24" src="opponents/9.png" x="915" y="484" width="102" height="101" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="102" srcheight="101"/>
+    <textureregion id="25" src="player.png" x="446" y="1113" width="102" height="101" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="102" srcheight="101"/>
+    <textureregion id="26" src="red-heart.png" x="828" y="858" width="80" height="74" rotated="true" trimmed="false" srcx="0" srcy="0" srcwidth="80" srcheight="74"/>
+    <textureregion id="27" src="scoreboard.png" x="2" y="831" width="422" height="274" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="422" srcheight="274"/>
+    <textureregion id="28" src="tree.png" x="2" y="484" width="345" height="459" rotated="true" trimmed="false" srcx="0" srcy="0" srcwidth="345" srcheight="459"/>
+</texture>

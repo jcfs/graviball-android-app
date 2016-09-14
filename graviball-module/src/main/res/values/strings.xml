@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Graviball</string>
+    <string name="achievements">Achievements</string>
+    <string name="AchievementImage">AchievementImage</string>
+    <string name="Achievements">Achievements</string>
+    <string name="NoScore">No Highscores Yet</string>
+    <string name="Highscores">Highscores</string>
+    <string name="appid">447277742000694</string>
+
+</resources>

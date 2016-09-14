@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/listViewId"
+    android:layout_width="fill_parent"
+    android:layout_height="80sp"
+    android:background="@android:color/darker_gray"
+    android:clickable="false"
+    android:gravity="center_vertical">
+    
+    <ImageView
+        android:id="@+id/imageId"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+        android:layout_centerVertical="true"
+        android:adjustViewBounds="true"
+        android:contentDescription="@string/AchievementImage"
+        android:maxHeight="50dip"
+        android:maxWidth="50dip"
+        android:paddingLeft="10dp"
+        android:src="@drawable/medal" />
+
+    <TextView
+        android:id="@+id/nameId"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerHorizontal="true"
+        android:padding="10dp"
+        android:textColor="#000000"
+        android:textSize="16sp" >
+    </TextView>
+
+    <TextView
+        android:id="@+id/dateId"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerHorizontal="true"
+        android:layout_alignParentBottom="true"
+        android:paddingBottom="20dp"
+        android:textColor="#000000"
+        android:textSize="16sp" >
+    </TextView>
+
+    <TextView
+        android:id="@+id/descriptionId"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:padding="10dp"
+        android:textSize="16sp"
+        android:visibility="gone" >
+    </TextView>
+</RelativeLayout>

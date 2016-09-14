@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/listViewId"
+    android:layout_width="wrap_content"
+    android:layout_height="80sp"
+    android:background="@drawable/marble"
+    android:clickable="false" >
+    
+    <ImageView
+        android:id="@+id/imageId"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+        android:layout_centerVertical="true"
+        android:adjustViewBounds="true"
+        android:contentDescription="@string/AchievementImage"
+        android:maxHeight="50dip"
+        android:maxWidth="50dip"
+        android:src="@drawable/medal" />
+
+    <TextView
+        android:id="@+id/nameId"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_toRightOf="@+id/imageId"
+        android:padding="25dp"
+        android:textColor="#000000"
+        android:textSize="16sp" >
+    </TextView>
+
+    <TextView
+        android:id="@+id/dateId"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentRight="true"
+        android:padding="25dp"
+        android:textColor="#000000"
+        android:textSize="16sp" >
+    </TextView>
+
+</RelativeLayout>
